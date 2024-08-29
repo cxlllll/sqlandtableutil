@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sushine-restweb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../sushine-restweb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
